@@ -40,7 +40,7 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Site publicado:** _em breve (será hospedado na Vercel na Sprint 03)_ <!-- TODO: colocar o link -->
+* 🌐 **Site publicado:** (https://yuraandaluz.vercel.app/)
 * 🎨 **Protótipos no Figma:** _TODO: link do Figma_
 * 📦 **Repositório:** [github.com/yuracandaluz/portfolio](https://github.com/yuracandaluz/portfolio)
 
