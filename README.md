@@ -1,144 +1,147 @@
-<!-- README base — Lab 01 (DIAW, PUC Minas).
-     Trechos marcados com «TODO» precisam ser preenchidos por você. -->
+<!-- README — Lab 01 (DIAW, PUC Minas). Estrutura baseada no template do Prof. João Paulo Aramuni, com identidade visual própria.
+     Trechos marcados com «TODO» precisam ser preenchidos antes da entrega. -->
+
+<div align="center">
+
+<br>
+
+<sub>P O R T F Ó L I O &nbsp; P R O F I S S I O N A L</sub>
+
+# Yura Andaluz
+
+<sub>ENGENHARIA DE SOFTWARE &nbsp;·&nbsp; DESENVOLVIMENTO iOS E WEB &nbsp;·&nbsp; DESIGN</sub>
+
+<br>
+
+*Uma edição bilíngue sobre trajetória, projetos e contato.*
+
+<br>
+
+[**Site**](https://yuraandaluz.vercel.app/) &nbsp;·&nbsp; [**Figma**](https://www.figma.com/design/yfhwZ2MOWHqt6sQZstJg3A/Portfolio?node-id=2-2&t=pJOBIEO9VZdHT7zp-1) &nbsp;·&nbsp; [**Repositório**](https://github.com/yuracandaluz/portfolio)
+
+<br>
+
+![React](https://img.shields.io/badge/React_19-1f1f1f?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f1f1f?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1f1f1f?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1f1f1f?style=flat-square&logo=vercel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-b8860b?style=flat-square)
+
+<br>
+
+<sub>Laboratório 01 &nbsp;·&nbsp; Desenvolvimento e Integração de Aplicações Web &nbsp;·&nbsp; PUC Minas</sub>
+
+</div>
+
+<!-- TODO: criar um monograma na sua identidade visual e colocar no topo, dentro do <div align="center"> -->
 
 ---
 
-# 💼 Portfólio Profissional — Yura Andaluz
+### Nesta edição
 
-> [!NOTE]
-> Website de portfólio profissional que apresenta minha trajetória, projetos, experiências e formas de contato de maneira moderna, responsiva e bilíngue (PT/EN).
-
-<!-- TODO: criar uma logo/monograma na sua identidade visual e colocar em /src/assets/images -->
-
----
-
-## 🚧 Status do Projeto
-
-![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-yellow?style=for-the-badge)
-![Sprint](https://img.shields.io/badge/Sprint-01_Planejamento_e_prototipação-007ec6?style=for-the-badge)
-![React](https://img.shields.io/badge/React-007ec6?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ec6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-007ec6?style=for-the-badge&logo=vite&logoColor=white)
+| Nº | Seção | Nº | Seção |
+| :-: | :-- | :-: | :-- |
+| 01 | [Sobre o Projeto](#sobre-o-projeto) | 06 | [Deploy](#deploy) |
+| 02 | [Funcionalidades](#funcionalidades) | 07 | [Estrutura de Pastas](#estrutura-de-pastas) |
+| 03 | [Tecnologias Utilizadas](#tecnologias-utilizadas) | 08 | [Protótipos e Demonstração](#protótipos-e-demonstração) |
+| 04 | [Arquitetura](#arquitetura) | 09 | [Documentações Utilizadas](#documentações-utilizadas) |
+| 05 | [Instalação e Execução](#instalação-e-execução) | 10 | [Autora](#autora) |
 
 ---
 
-## 📚 Índice
-- [Links Úteis](#-links-úteis)
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Funcionalidades Principais](#-funcionalidades-principais)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Arquitetura](#-arquitetura)
-- [Instalação e Execução](#-instalação-e-execução)
-- [Deploy](#-deploy)
-- [Estrutura de Pastas](#-estrutura-de-pastas)
-- [Protótipos e Demonstração](#-protótipos-e-demonstração)
-- [Documentações utilizadas](#-documentações-utilizadas)
-- [Autora](#-autora)
-- [Agradecimentos](#-agradecimentos)
-- [Licença](#-licença)
+<sub>Nº 01</sub>
+
+## Sobre o Projeto
+
+Este portfólio nasceu como o **Laboratório 01** da disciplina de Desenvolvimento e Integração de Aplicações Web (DIAW), do curso de Engenharia de Software da PUC Minas.
+
+> Reunir em um só lugar quem eu sou, o que construí e como falar comigo.
+
+|  |  |
+| :-- | :-- |
+| **Por que existe** | Apresentar minha trajetória de forma moderna e acessível, sem depender de um PDF. |
+| **Problema que resolve** | Recrutadoras e colegas conhecem minha história e meus projetos em poucos cliques. |
+| **Contexto** | Acadêmico e profissional. Une cerca de oito anos de design à formação em Engenharia de Software. |
+| **Diferencial** | Identidade editorial, conteúdo bilíngue e formulário de contato funcional. |
+
+<!-- TODO: reescrever esta seção na sua voz. É a parte que o professor lê primeiro. -->
 
 ---
 
-## 🔗 Links Úteis
-* 🌐 **Site publicado:** (https://yuraandaluz.vercel.app/)
-* 🎨 **Protótipos no Figma:** _TODO: link do Figma_
-* 📦 **Repositório:** [github.com/yuracandaluz/portfolio](https://github.com/yuracandaluz/portfolio)
+<sub>Nº 02</sub>
+
+## Funcionalidades
+
+| | |
+| :-- | :-- |
+| **Navegação** | Menu com as quatro seções e destaque da página atual. |
+| **Bilíngue** | Alternador PT/EN que traduz o site inteiro. |
+| **Sobre Mim** | Formação, área de atuação, interesses e objetivos profissionais. |
+| **Projetos** | Linha do tempo do mais antigo ao mais recente, com descrição, tecnologias e link do GitHub. |
+| **Experiências** | Instituição, cargo ou atividade, período e descrição. |
+| **Contato** | Ícones clicáveis (e-mail, WhatsApp, LinkedIn, GitHub) e formulário com envio por e-mail. |
+| **Validações** | Campos obrigatórios, e-mail válido e tamanho mínimo da mensagem. |
+| **Responsividade** | Layout adaptado a desktop e celular. |
 
 ---
 
-## 📝 Sobre o Projeto
+<sub>Nº 03</sub>
 
-Este portfólio nasceu como o **Laboratório 01** da disciplina de **Desenvolvimento e Integração de Aplicações Web (DIAW)**, do curso de Engenharia de Software da PUC Minas.
+## Tecnologias Utilizadas
 
-- **Por que existe:** reunir em um só lugar quem eu sou, o que construí e como falar comigo.
-- **Qual problema resolve:** recrutadoras e colegas conseguem conhecer minha trajetória e meus projetos em poucos cliques, sem precisar de um PDF.
-- **Contexto:** acadêmico e profissional. Combina minha base de **~8 anos em design** com a formação em Engenharia de Software.
-- **Diferencial:** identidade visual própria, conteúdo bilíngue e projetos com demonstração em funcionamento.
+| Camada | Tecnologia |
+| :-- | :-- |
+| **Interface** | React 19 · TypeScript |
+| **Build** | Vite |
+| **Navegação** | React Router |
+| **Formulário** | React Hook Form · EmailJS |
+| **Ícones** | React Icons |
+| **Estilo** | CSS puro com variáveis (design tokens) |
+| **Qualidade de código** | Oxlint |
+| **Versionamento** | Git · GitHub |
+| **Prototipação** | Figma |
+| **Hospedagem** | Vercel |
+| **Runtime e pacotes** | Node.js · npm |
 
-<!-- TODO: ajustar o texto com a sua voz. Esta seção é lida pelo professor. -->
+### Dependências e bibliotecas
 
----
-
-## ✨ Funcionalidades Principais
-
-- 🧭 **Navegação:** menu que leva às quatro seções do site.
-- 👩‍💻 **Sobre Mim:** apresentação em **português e inglês** (formação, área de atuação, interesses e objetivos).
-- 🗂️ **Projetos:** linha do tempo do mais antigo ao mais recente, com nome, descrição, tecnologias, link do GitHub e imagem/GIF.
-- 🏢 **Experiências:** empresa/instituição, cargo ou atividade, período e descrição.
-- 📨 **Contato:** ícones clicáveis (e-mail, WhatsApp, LinkedIn) e formulário com envio por e-mail.
-- ✅ **Validações básicas** no formulário.
-- 📱 **Design responsivo** e identidade visual coerente.
-
----
-
-## 🛠 Tecnologias Utilizadas
-
-> As tecnologias abaixo são as **previstas** na Sprint 01 e serão confirmadas até a entrega final.
-
-### 💻 Front-end
-
-* **Biblioteca:** React
-* **Linguagem:** TypeScript
-* **Build Tool:** Vite
-* **Qualidade de código:** <!-- TODO: ESLint ou Oxlint (o que você escolheu) -->
-* **Biblioteca de UI:** <!-- TODO: Mantine ou shadcn/ui -->
-* **Roteamento:** React Router <!-- TODO: confirmar quando instalar -->
-* **Formulário:** React Hook Form <!-- TODO: confirmar -->
-* **E-mail:** EmailJS (`@emailjs/browser`) <!-- TODO: confirmar -->
-
-### ⚙️ Infraestrutura & Ferramentas
-
-* **Versionamento:** Git e GitHub
-* **Prototipação:** Figma
-* **Hospedagem:** Vercel
-* **Runtime / pacotes:** Node.js e npm
-
-### 📦 Dependências e bibliotecas
-
-<!-- TODO: depois de instalar tudo, copie a lista do seu package.json (dependencies e devDependencies) e cole aqui em forma de tabela com as versões. -->
-
-| Biblioteca | Para quê |
-| :--- | :--- |
+| Biblioteca | Função |
+| :-- | :-- |
 | `react`, `react-dom` | Interface por componentes |
+| `react-router-dom` | Navegação entre páginas |
+| `react-hook-form` | Formulário de contato e validações |
+| `@emailjs/browser` | Envio de e-mail direto do front-end |
+| `react-icons` | Ícones de contato |
 | `typescript` | Tipagem estática |
 | `vite` | Servidor de desenvolvimento e build |
 
----
-
-## 🏗 Arquitetura
-
-O projeto é uma **SPA (Single Page Application)** em React, **sem back-end próprio** nesta etapa.
-
-- **Componentes reutilizáveis** (cabeçalho, rodapé, cards) compartilhados entre as páginas.
-- **Páginas** para cada seção, com navegação por rotas.
-- **Dados separados da interface:** projetos e experiências ficam em arquivos de dados e são renderizados por componentes, evitando repetir HTML.
-- **Envio de e-mail** feito direto do front-end pelo EmailJS.
-
-<!-- TODO: explique em 2 ou 3 linhas por que você escolheu essa arquitetura (é pergunta comum na apresentação final). -->
+<!-- TODO: conferir as versões exatas no package.json antes da entrega. -->
 
 ---
 
-## 🔧 Instalação e Execução
+<sub>Nº 04</sub>
 
-### Pré-requisitos
+## Arquitetura
 
-* **Node.js:** versão LTS (18 ou superior)
-* **npm** (já vem com o Node.js)
-* **Git**
+Uma **SPA (Single Page Application)** em React, sem back-end próprio nesta etapa.
 
-### 🔑 Variáveis de Ambiente
+- **Layout compartilhado.** `Header` e `Footer` aparecem em todas as páginas, e o conteúdo muda pelo `<Outlet />` do React Router.
+- **Dados separados da interface.** Projetos e experiências vivem em `src/data` e são renderizados por componentes, sem repetir HTML.
+- **Internacionalização por contexto.** O `LanguageContext` guarda o idioma, e cada texto é um objeto `{ pt, en }`.
+- **E-mail pelo front-end.** O EmailJS envia a mensagem, com as chaves em variáveis de ambiente.
+- **Rotas diretas na Vercel.** O `vercel.json` redireciona qualquer caminho para o `index.html`, e o React Router escolhe a página.
 
-Crie um arquivo `.env.local` na raiz do projeto (ele **não** deve ser commitado):
+<!-- TODO: explicar em 2 ou 3 linhas por que você escolheu essa arquitetura (pergunta comum na apresentação final). -->
 
-```
-VITE_EMAILJS_SERVICE_ID=seu_service_id_aqui
-VITE_EMAILJS_TEMPLATE_ID=seu_template_id_aqui
-VITE_EMAILJS_PUBLIC_KEY=sua_public_key_aqui
-```
+---
 
-> No Vite, variáveis precisam começar com `VITE_` para ficarem disponíveis no código do front-end.
+<sub>Nº 05</sub>
 
-### 📦 Instalação
+## Instalação e Execução
+
+**Pré-requisitos:** Node.js LTS (18 ou superior), npm e Git.
+
+### 1. Clonar e instalar
 
 ```bash
 git clone git@github.com:yuracandaluz/portfolio.git
@@ -146,108 +149,137 @@ cd portfolio
 npm install
 ```
 
-### ⚡ Execução
+### 2. Variáveis de ambiente
+
+Crie um arquivo `.env.local` na raiz (ele **não** é versionado), seguindo o modelo do `.env.example`:
+
+```
+VITE_EMAILJS_SERVICE_ID=seu_service_id_aqui
+VITE_EMAILJS_TEMPLATE_ID=seu_template_id_aqui
+VITE_EMAILJS_PUBLIC_KEY=sua_public_key_aqui
+```
+
+> No Vite, as variáveis precisam começar com `VITE_` para chegar ao código do navegador.
+
+### 3. Executar
 
 ```bash
 npm run dev
 ```
 
-O site fica disponível em **http://localhost:5173**.
+O site abre em **http://localhost:5173**.
 
-### Outros comandos
-
-| Comando | O que faz |
-| :--- | :--- |
+| Comando | Função |
+| :-- | :-- |
 | `npm run dev` | Servidor de desenvolvimento |
-| `npm run build` | Gera a versão final otimizada em `/dist` |
+| `npm run build` | Versão final otimizada em `/dist` |
 | `npm run preview` | Serve localmente a versão de produção |
 | `npm run lint` | Verifica a qualidade do código |
 
 ---
 
-## 🚀 Deploy
+<sub>Nº 06</sub>
 
-O deploy será feito na **Vercel** (Sprint 03).
+## Deploy
 
-1. Importar o repositório do GitHub na Vercel.
-2. Configurar as variáveis `VITE_EMAILJS_*` em *Project Settings → Environment Variables*.
-3. A cada `push` na branch `main`, a Vercel gera uma nova versão automaticamente.
+Publicado na **Vercel**: [yuraandaluz.vercel.app](https://yuraandaluz.vercel.app/)
+
+1. O repositório do GitHub está importado na Vercel, com o preset **Vite**.
+2. As variáveis `VITE_EMAILJS_*` estão em *Project Settings → Environment Variables*.
+3. A cada `push` na branch `main`, uma nova versão é publicada automaticamente.
 
 ---
 
-## 📂 Estrutura de Pastas
+<sub>Nº 07</sub>
 
-> Estrutura **inicial**, que deve evoluir durante as sprints.
+## Estrutura de Pastas
 
 ```
 .
-├── public/                 # Arquivos estáticos
+├── docs/
+│   └── images/             Wireframes (Figma) e prints do site
+├── public/                 Arquivos estáticos
 ├── src/
-│   ├── assets/             # Imagens, GIFs, ícones e fontes
-│   ├── components/         # Componentes reutilizáveis (Header, Footer, cards...)
-│   ├── data/               # Dados de projetos e experiências
-│   ├── pages/              # Sobre, Projetos, Experiências, Contato
-│   ├── styles/             # Tema e estilos globais
-│   ├── App.tsx             # Layout principal e rotas
-│   └── main.tsx            # Ponto de entrada
+│   ├── assets/             Imagens usadas pelo site
+│   ├── components/         Header, Footer e Layout
+│   ├── data/               Projetos e experiências
+│   ├── i18n/               Contexto de idioma (PT/EN)
+│   ├── pages/              About, Projects, Experience e Contact
+│   ├── App.tsx             Rotas
+│   ├── index.css           Estilos globais e design tokens
+│   └── main.tsx            Ponto de entrada
+├── .env.example            Modelo das variáveis de ambiente
 ├── index.html
-├── package.json            # Dependências e scripts
+├── LICENSE
+├── package.json            Dependências e scripts
 ├── tsconfig.json
+├── vercel.json             Redirecionamento de rotas na Vercel
 ├── vite.config.ts
 └── README.md
 ```
 
-<!-- TODO: ajuste a árvore conforme o que realmente existir no seu projeto. -->
-
 ---
 
-## 🎥 Protótipos e Demonstração
+<sub>Nº 08</sub>
 
-### 🎨 Wireframes (Figma — média fidelidade)
+## Protótipos e Demonstração
+
+### Wireframes
+
+Média fidelidade, no [Figma](https://www.figma.com/design/yfhwZ2MOWHqt6sQZstJg3A/Portfolio?node-id=2-2&t=pJOBIEO9VZdHT7zp-1).
 
 | Sobre Mim | Projetos |
-| :---: | :---: |
-| _TODO: imagem do wireframe_ | _TODO: imagem do wireframe_ |
+| :-: | :-: |
+| <img src="docs/images/wireframe-sobre.png" alt="Wireframe da página Sobre Mim" width="400"> | <img src="docs/images/wireframe-projetos.png" alt="Wireframe da página Projetos" width="400"> |
 | **Experiências** | **Contato** |
-| _TODO: imagem do wireframe_ | _TODO: imagem do wireframe_ |
+| <img src="docs/images/wireframe-experiencias.png" alt="Wireframe da página Experiências" width="400"> | <img src="docs/images/wireframe-contato.png" alt="Wireframe da página Contato" width="400"> |
 
-### 🌐 Protótipo inicial do front-end
+### O site no ar
 
-_TODO: print da navegação e do layout base (cabeçalho, rodapé e área de conteúdo)._
+| Sobre Mim | Projetos |
+| :-: | :-: |
+| <img src="docs/images/site-sobre.png" alt="Página Sobre Mim publicada" width="400"> | <img src="docs/images/site-projetos.png" alt="Página Projetos publicada" width="400"> |
+| **Experiências** | **Contato** |
+| <img src="docs/images/site-experiencias.png" alt="Página Experiências publicada" width="400"> | <img src="docs/images/site-contato.png" alt="Página Contato publicada" width="400"> |
 
-<!-- Dica: guarde as imagens em /docs/images ou /src/assets e referencie com caminho relativo, ex.: ![Home](docs/images/home.png) -->
-
----
-
-## 🔗 Documentações utilizadas
-
-* 📖 [React](https://react.dev/)
-* 📖 [Vite](https://vite.dev/guide/)
-* 📖 [TypeScript](https://www.typescriptlang.org/docs/)
-* 📖 [EmailJS](https://www.emailjs.com/docs/)
-* 📖 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-<!-- TODO: adicionar a documentação da biblioteca de UI escolhida -->
+<!-- TODO (Sprint 03): adicionar GIF do alternador PT/EN e do envio do formulário. -->
 
 ---
 
-## 👥 Autora
+<sub>Nº 09</sub>
 
-| 👤 Nome | 🐙 GitHub | 💼 LinkedIn | 📤 E-mail |
-| :--- | :---: | :---: | :---: |
-| Yura Andaluz | [yuracandaluz](https://github.com/yuracandaluz) | (https://www.linkedin.com/in/yurajyanay/) | yurajyanay@gmail.com |
+## Documentações Utilizadas
 
----
-
-## 🙏 Agradecimentos
-
-* [**Engenharia de Software PUC Minas**](https://www.instagram.com/engsoftwarepucminas/): pelo apoio institucional e estrutura acadêmica.
-* [**Prof. Dr. João Paulo Aramuni**](https://github.com/joaopauloaramuni): pelos ensinamentos.
-<!-- TODO: citar outras fontes e inspirações que você usou (é questão de integridade acadêmica). -->
+[React](https://react.dev/) &nbsp;·&nbsp; [Vite](https://vite.dev/guide/) &nbsp;·&nbsp; [TypeScript](https://www.typescriptlang.org/docs/) &nbsp;·&nbsp; [React Router](https://reactrouter.com/) &nbsp;·&nbsp; [React Hook Form](https://react-hook-form.com/) &nbsp;·&nbsp; [EmailJS](https://www.emailjs.com/docs/) &nbsp;·&nbsp; [Vercel](https://vercel.com/docs) &nbsp;·&nbsp; [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ---
 
-## 📄 Licença
+<sub>Nº 10</sub>
 
-Este projeto é distribuído sob a **Apache 2.0**.
+## Autora
 
----
+<div align="center">
+
+**Yura Andaluz**
+
+<sub>Estudante de Engenharia de Software · PUC Minas · Belo Horizonte</sub>
+
+[GitHub](https://github.com/yuracandaluz) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yurajyanay/) &nbsp;·&nbsp; [E-mail](mailto:yurajyanay@gmail.com)
+
+</div>
+
+### Agradecimentos
+
+Ao curso de [Engenharia de Software da PUC Minas](https://www.instagram.com/engsoftwarepucminas/), pelo apoio institucional, e ao [Prof. Dr. João Paulo Aramuni](https://github.com/joaopauloaramuni), pelos ensinamentos.
+
+### Licença
+
+Distribuído sob a **Licença Apache 2.0**. Veja o arquivo [LICENSE](LICENSE).
+
+<br>
+
+<div align="center">
+
+<sub>© 2026 Yura Andaluz</sub>
+
+</div>
